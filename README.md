@@ -1,6 +1,8 @@
 # ✊✋✌️ Rock Paper Scissors Game
 This is a fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. You can play against the computer, and scores are tracked live on the screen.
 
+Live Demo: https://khushitiwari26.github.io/Rock-Paper-Scissor/
+
 🎮 Features
 - Click to choose Rock, Paper, or Scissors
 - The computer picks a random choice
