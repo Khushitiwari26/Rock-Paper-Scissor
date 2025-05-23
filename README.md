@@ -9,6 +9,7 @@ This is a fun and interactive Rock Paper Scissors game built using HTML, CSS, an
 - Smooth and simple UI with hover effects
 
 📁 Project Files
+
 rock-paper-scissors/
 
 │
@@ -41,5 +42,6 @@ rock-paper-scissors/
 - Mobile responsiveness improvements
 
 📜 License
+
 This project is open-source and free to use for personal or educational purposes.
 
